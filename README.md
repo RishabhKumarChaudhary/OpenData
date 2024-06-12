@@ -32,7 +32,7 @@
 - [📚 NLP Datasets](#nlp-datasets)
 - [🎵 Audio Datasets](#audio-datasets)
 - [Open Government Sites](https://github.com/Mukhopadhyay/OpenData/blob/master/OPEN_GOV.md)
-
+- [![image](https://github.com/RishabhKumarChaudhary/OpenData/assets/82966445/3619718a-8e23-407b-870c-cb92e385dc17) India Datasets](#audio-datasets)
 ---
 
 
@@ -154,4 +154,21 @@
 |**LibriSpeech**|LibriSpeech is a corpus of approximately 1000 hours of 16KHz read English speech, prepared by Vassil Panayotov with the assistance of Daniel Povey.|[www.openslr.org](http://www.openslr.org/12/)|
 |**Urban Sound 8K Dataset**|This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes.|[urbansounddataset.weebly.com](https://urbansounddataset.weebly.com/urbansound8k.html)|
 |**VoxCeleb**|This is an audio visual dataset consisting of short clips of human speech, extracted from interview videoes uploaded to YouTube|[www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)|
+---
+
+
+<div align = 'center'>
+
+<a name='Image-dataset'>
+
+## ![image](https://github.com/RishabhKumarChaudhary/OpenData/assets/82966445/3619718a-8e23-407b-870c-cb92e385dc17)
+ Indian Datasets 
+
+</a>
+
+</div>
+
+|Name|Description|URL|
+|:---|:----------|:--|
+|**Index of Economic Freedom**|This dataset gives many informatinos on the economic freedom score of India.|[heritage.org](https://www.heritage.org/index/assets/data/json/country-pages/india.json)|
 ---
